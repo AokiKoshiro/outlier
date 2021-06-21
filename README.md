@@ -1,2 +1,2 @@
 # outlier
-- [Open with Colab](https://colab.research.google.com/github/GITHUB_ID/REPO_NAME/blob/master/outlier.ipynb)
+- [Open with Colab](https://colab.research.google.com/github/AokiKoshiro/outlier/blob/main/outlier.ipynb)
